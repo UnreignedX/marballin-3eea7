@@ -7,14 +7,15 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Marballin!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="" />
       </Head>
 
       <main>
         <Header title="Coming soon!" />
         <p className="description">
-          <code>:)</code>
+          <code></code>
         </p>
+        asd
       </main>
 
       <Footer />
